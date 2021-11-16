@@ -22,7 +22,7 @@
   "homepage": "https://github.com/achung3071/BCHA-server#readme",
   "dependencies": {
     "@elastic/elasticsearch": "^7.4.0",
-    "aws-sdk": "^2.578.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.19.0",
     "bcrypt": "^3.0.6",
     "cheerio": "^1.0.0-rc.3",
